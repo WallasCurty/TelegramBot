@@ -1,8 +1,3 @@
-# TelegramBot
-
-
-
-
 
 <h1 align="center">Bot Telegram </h1>
 
