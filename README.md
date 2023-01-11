@@ -5,15 +5,19 @@
 
 
 <h1 align="center">Bot Telegram </h1>
-<p align="center">
-   Para criar o Bot, é necessario que crie uma conta no telegram e em seguida, pesquise na barra de busca
-por BotFather.
 
-Passo 1 - Clique em " start " ;
-Passo 2 - Selecione a opção "/newbot - create a new bot"
-Passo 3 - Escolha um nome
-Passo 4 - Defina o username do seu bot (obs: deve terminar com a palavra "bot")
-Passo 5 - Copie a chave da API
+
+## :bookmark_tabs: Sobre o Projeto
+
+<p>
+   Para criar o Bot, é necessario que crie uma conta no telegram e em seguida, pesquise na barra de busca
+por BotFather.<br/>
+
+Passo 1 - Clique em " start " ;<br/>
+Passo 2 - Selecione a opção "/newbot - create a new bot";<br/>
+Passo 3 - Escolha um nome;<br/>
+Passo 4 - Defina o username do seu bot (obs: deve terminar com a palavra "bot");<br/>
+Passo 5 - Copie a chave da API;<br/>
 </p>
 
 ## :computer: Tecnologias
@@ -40,4 +44,7 @@ $ telegrambotapi
 $ Rum aplicação
 
 ```
+
+## :man_technologist: Autor
+
 Made with Wallas Curty .
